@@ -155,6 +155,11 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT /usr/share/texmf-dist/tex/latex/base/omscmr.fd
 INPUT /usr/share/texmf-dist/tex/latex/base/omscmr.fd
 INPUT /usr/share/texmf-dist/tex/latex/base/omscmr.fd
+INPUT ./Pictures/root.png
+INPUT ./Pictures/root.png
+INPUT ./Pictures/root.png
+INPUT ./Pictures/root.png
+INPUT ./Pictures/root.png
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
